@@ -32,9 +32,9 @@ in a network of web pages based on the structure of the links between them.
     <p>    Visualize using bar chart to represent authority and hub scores.
 
 ### Program:
-Developed by : Hariharan A
+Developed by : YOGESHVAR M
 
-Register Number : 212222100012
+Register Number : 212222230180
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
